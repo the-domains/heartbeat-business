@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Führung und Veränderung in der digitalen Welt]]></title>
         <description><![CDATA[Führung und Veränderung in der digitalen Welt]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/heartbeat-business/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 31 Mar 2016 10:37:31 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 31 Mar 2016 10:51:36 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/heartbeat-business/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Das schwungvolle "e"]]></title>
-            <description><![CDATA[<article><h1>Das schwungvolle "e"</h1><p>Endlich ist es soweit: Die HeartBeat-Business Website geht online und ich schreibe meinen ersten Post. </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8ca5b538-772e-4860-b63b-751e02256340.png"></article>]]></description>
-            <link>undefineddas-schwungvolle-e/index.html</link>
+            <description><![CDATA[<article><h1>Das schwungvolle "e"</h1><p>Das geschwungene "e" steht in erster Linie für "Empathie". Denn immer wieder stelle ich fest, dass es bei guter Führung vor allem auf Menschlichkeit ankommt. Wenn Menschen einer Führungskraft gerne folgen, weil sie authentisch und klar ist, ist das echte "Leadership" - in Abgrenzung zum puren "Management", das den Fokus mehr auf organisatorische Dingen, wie Prozesse, Formulare und Vorschriften etc. legt, statt Menschen durch Vorbild und Inspiration zu bewegen. So sehe ich die Empathiefähigkeit von Führungskräften als einen der entscheidenden Einflussfaktoren erfolgreicher Unternehmen und Teams an. HeartBeat-Business steht für "Führung und Veränderung in der digitalen Welt". Das schwungvolle "e" im Logo steht also für eine empathische Grundhaltung sowie die dazugehörige Kommunikationsfähigkeit</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8ca5b538-772e-4860-b63b-751e02256340.png"></article>]]></description>
+            <link>https://thegrid.ai/heartbeat-business/das-schwungvolle-e/index.html</link>
             <guid isPermaLink="false">2020e3e5-9f26-42f6-aeb8-9babd3a39824</guid>
-            <pubDate>Thu, 31 Mar 2016 10:37:03 GMT</pubDate>
+            <pubDate>Thu, 31 Mar 2016 10:51:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
