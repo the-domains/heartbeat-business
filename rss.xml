@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Führung und Veränderung in der digitalen Welt]]></title>
+        <description><![CDATA[Führung und Veränderung in der digitalen Welt]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 31 Mar 2016 10:37:31 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Das schwungvolle "e"]]></title>
+            <description><![CDATA[<article><h1>Das schwungvolle "e"</h1><p>Endlich ist es soweit: Die HeartBeat-Business Website geht online und ich schreibe meinen ersten Post. </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8ca5b538-772e-4860-b63b-751e02256340.png"></article>]]></description>
+            <link>undefineddas-schwungvolle-e/index.html</link>
+            <guid isPermaLink="false">2020e3e5-9f26-42f6-aeb8-9babd3a39824</guid>
+            <pubDate>Thu, 31 Mar 2016 10:37:03 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
