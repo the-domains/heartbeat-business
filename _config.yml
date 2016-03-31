@@ -1,0 +1,28 @@
+name: HeartBeat-Business
+favicon: null
+layout_spectrum: 0.7091080541722476
+typography_spectrum: 0.3550597350113094
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.8685209322720766
+  lightness: 0.4233906662557274
+  saturation: 0.88166816951707
+  rhythmicContrast: 0.5921608442440629
+purpose: []
